@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td><p align="center">🎓Check my <br> <a href="https://github.com/pabloojdr/42-cursus">42 proyects!
+    <td><p align="center">🎓Check my <br> <a href="https://github.com/pabloojdr/42-cursus">42 projects!
       <p align="center"><img src="https://img.shields.io/badge/CPiscine-Finished-orange"></p>
       <p align="center"><img src="https://img.shields.io/badge/42Cursus-Rank 02-yellow"></p></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pabloojdr&theme=rising-sun" alt="GitHub Streak" /></a></td>
