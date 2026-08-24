@@ -2,13 +2,6 @@
 
 <table align="center">
   <tr>
-    <td><p align="center">🎓Check my <br> <a href="https://github.com/pabloojdr/42-cursus">42 projects!
-      <p align="center"><img src="https://img.shields.io/badge/CPiscine-Finished-orange"></p>
-      <p align="center"><img src="https://img.shields.io/badge/42Cursus-Rank 02-yellow"></p></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pabloojdr&theme=rising-sun" alt="GitHub Streak" /></a></td>
-    <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloojdr&show_icons=true&theme=vision-friendly-dark&cache_seconds=1800"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloojdr&show_icons=true&theme=vision-friendly-dark&cache_seconds=1800" alt="Top Langs" /></a></td>
-  </tr>
-  <tr>
     <td><p align="center">	✉️ Contact me:<br>
       <a href="https://skillicons.dev">
     <a href="https://www.linkedin.com/in/pablo-juli%C3%A1n-campoy-fern%C3%A1ndez-a2413b316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,6 +14,4 @@
     </p></td>
   </tr>
 </table>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=pabloojdr&style=flat-square&color=blue"></p>
 
